@@ -1,0 +1,33 @@
+[2025-12-08 15:20:59] Server started on 0.0.0.0:5555
+[2025-12-08 15:21:40] dhruv joined the chat!
+[2025-12-08 15:24:15] dhruv: how are you?
+[2025-12-08 15:24:36] dhruv: what??
+[2025-12-08 15:28:28] dhruv left the chat.
+[2025-12-08 15:36:06] Server started on 0.0.0.0:5555
+[2025-12-08 15:37:18] dhruv joined the chat!
+[2025-12-08 15:37:45] dhruv left the chat.
+[2025-12-08 15:37:52] Server started on 0.0.0.0:5555
+[2025-12-08 15:38:10] Dhruv joined the chat!
+[2025-12-08 15:57:36] Dhruv left the chat.
+[2025-12-20 22:32:55] SERVER STARTED: Listening on 0.0.0.0:55555
+[2025-12-20 22:33:07] SERVER: Bob has joined the chat.
+[2025-12-20 22:33:07] SERVER: Alice has joined the chat.
+[2025-12-20 22:33:08] Alice: Hello world!
+[2025-12-20 22:33:08] Bob: Hi Alice!
+[2025-12-20 22:33:09] Bob: I am doing great.
+[2025-12-20 22:33:09] Alice: How is everyone?
+[2025-12-20 22:33:10] Bob: Nice app!
+[2025-12-20 22:33:10] Alice: Testing /mute now
+[2025-12-20 22:33:11] SERVER: Bob has left the chat.
+[2025-12-20 22:33:11] SERVER: Alice has left the chat.
+[2025-12-20 22:37:03] SERVER: ssss has joined the chat.
+[2025-12-20 22:37:07] ssss: hii
+[2025-12-20 22:37:52] SERVER: ssss has left the chat.
+[2025-12-20 22:41:05] SERVER: user 1 has joined the chat.
+[2025-12-20 22:41:15] SERVER: ssss has joined the chat.
+[2025-12-20 22:41:27] user 1: hiii
+[2025-12-20 22:41:34] ssss: hii
+[2025-12-20 22:41:43] user 1: how was the day?
+[2025-12-20 22:41:49] ssss: it is fine
+[2025-12-20 22:41:52] SERVER: user 1 has left the chat.
+[2025-12-20 22:41:53] SERVER: ssss has left the chat.
